@@ -10,9 +10,9 @@ It provides multiple login methods:
 
 Project Structure
 /auth-system
-- ├── login.html
-- - ├── home.php       
--├── login.php      
+ ├── login.html
+ ├── home.php       
+ ├── login.php      
  
 
  Features
